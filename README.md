@@ -11,7 +11,7 @@
 **Course:** Design & Analysis of Algorithms (ETCCDA302)  
 **Institution:** K.R. Mangalam University, Gurugram, Haryana  
 **Assessment:** Capstone Project (100 Marks scaled down to 10 Marks)  
-**Faculty Evaluator:** Dr. Shweta Agarwal  
+**Faculty Evaluator:** Mrs. Ankita Gupta  
 **Implementation:** Pure Python (Zero external library shortcuts for core algorithms)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
